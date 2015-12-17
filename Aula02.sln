@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula02", "Aula02\Aula02.csproj", "{EE75575F-3E1F-4A2B-B2A6-7827B96C8CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula03_EF", "Aula03_EF\Aula03_EF.csproj", "{F45D4D58-C825-481C-8239-D9DB01F57996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula03_Autenticacao", "Aula03_Autenticacao\Aula03_Autenticacao.csproj", "{0B34802A-7B4E-4CA0-A4B9-E5A95715E1FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE75575F-3E1F-4A2B-B2A6-7827B96C8CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE75575F-3E1F-4A2B-B2A6-7827B96C8CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE75575F-3E1F-4A2B-B2A6-7827B96C8CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE75575F-3E1F-4A2B-B2A6-7827B96C8CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45D4D58-C825-481C-8239-D9DB01F57996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45D4D58-C825-481C-8239-D9DB01F57996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45D4D58-C825-481C-8239-D9DB01F57996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45D4D58-C825-481C-8239-D9DB01F57996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B34802A-7B4E-4CA0-A4B9-E5A95715E1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B34802A-7B4E-4CA0-A4B9-E5A95715E1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B34802A-7B4E-4CA0-A4B9-E5A95715E1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B34802A-7B4E-4CA0-A4B9-E5A95715E1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
